@@ -1,6 +1,6 @@
-@define-color selected-text #cfbfad;
-@define-color text #75715e;
+@define-color selected-text #9933cc;
+@define-color text #000000;
 @define-color base #2d2a2e;
-@define-color border #75715e;
-@define-color foreground #cfbfad;
-@define-color background #2d2a2e;
+@define-color border #cc7833;
+@define-color foreground #ffffff;
+@define-color background #000000;
