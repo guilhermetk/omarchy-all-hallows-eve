@@ -29,7 +29,7 @@ theme[meter_bg]="#3387cc"
 theme[proc_misc]="#9933cc"
 
 # Cpu box outline color
-theme[cpu_box]="#c83730"
+theme[cpu_box]="#cc7833"
 
 # Memory/disks box outline color
 theme[mem_box]="#66cc33"
