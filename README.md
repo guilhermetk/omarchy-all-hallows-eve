@@ -1,11 +1,12 @@
-# Rose pine theme for Omarchy
+# All Hallows Eve theme for Omarchy
 
-A rose pine theme for [Omarchy](https://omarchy.org/).
+An All Hallows Eve theme for [Omarchy](https://omarchy.org/).
 
 ### Dark:
 
-![Omarchy Rose Pine Wallpaper](./assets/wallpaper.webp)
-![Omarchy Rose Pine Tools](./assets/tools.webp)
+![AHE Wallpaper](./assets/wallpaper.webp)
+![AHE1 Tools](./assets/tools-1.webp)
+![AHE2 Tools](./assets/tools-2.webp)
 
 ### Color palette
 
@@ -18,7 +19,7 @@ Use the builtin installation script (available after version 1.4.0):
 
 Dark:
 ```bash
-omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
+omarchy-theme-install https://github.com/guilhermetk/omarchy-all-hallows-eve
 ```
 
 ### Acknowledgments
